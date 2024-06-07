@@ -1,0 +1,9 @@
+ID,Departments,ProductType,Name,Quantity,UnitPrice,MaxQuantity
+0,Sweets,Chocolate,Milka,1,5,50
+1,Sweets,Chocolate,Kinder,50,4,50
+2,Sweets,Cake,Poiana,38,3,40
+3,Sweets,Cream,Nutela,20,9,20
+4,Diary,Milk,Zizin,27,7,44
+5,Entertainment,BoardGame,Catan,4,180,10
+6,Entertainment,VideoGame,SpiderMan,6,60,10
+7,Vegetables,Brocoli,Brocoli,20,1,40

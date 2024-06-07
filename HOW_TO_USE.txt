@@ -1,0 +1,23 @@
+FIRST OF ALL, THE PROGRAM EXECUTABLE IS LOCATED WITHIN THE SOURCE FILES
+
+This sheet is for instructions regarding the program
+
+When you run the program, you are greeted with the MiniMarket Storage System maim manu
+
+Only the first 2 functionalities are working, from which are represented in the main manu
+
+Press 1 to display the stock:
+    You will be greeted with a list containing the departments of the minimarket and their corresponding ID
+    Write the id of the department you wish to see the stock capacity of.
+    Additionally, write 0 to see the the total capacity of all departments combined.
+    You will se the current capacity as well as the maximum capacity for each department.
+
+Press 2 to add to stock:
+    By pressing to you are accesing a menu where you are greeted with the list of all products in the MiniMarket
+    There printed with their name and corresponding ID.
+    Write the ID of the corresponding product you wish to add more products of.
+    If the capacity is at it's maximum, you won't be able to make any changes.
+    If not, feel free to write the number of products you wish to add to stock.
+
+Press 0 to exit the program;
+

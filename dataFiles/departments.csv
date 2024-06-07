@@ -1,0 +1,5 @@
+Name,DepartmentID,MaxCapacity,CurrentCapacity,Product-Quantity
+Sweets,1,500,230,Milka=30;Kinder=20;Poiana=18;Nutela=15
+Diary,2,200,113,Zizin=20
+Entertainment,3,50,43,Catan=4;SpiderMan=6
+Vegetables,4,250,123,Brocoli=15
